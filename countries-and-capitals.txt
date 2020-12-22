@@ -1,0 +1,239 @@
+Somaliland	Hargeisa	Africa	hard
+Algeria	Algiers	Africa	hard
+Angola	Luanda	Africa	hard
+Benin	Porto-Novo	Africa	hard
+Botswana	Gaborone	Africa	hard
+Burkina Faso	Ouagadougou	Africa	hard
+Burundi	Bujumbura	Africa	hard
+Cameroon	Yaounde	Africa	hard
+Cape Verde	Praia	Africa	hard
+Central African Republic	Bangui	Africa	hard
+Chad	N'Djamena	Africa	hard
+Comoros	Moroni	Africa	hard
+Democratic Republic of the Congo	Kinshasa	Africa	hard
+Republic of Congo	Brazzaville	Africa	hard
+Cote d'Ivoire	Yamoussoukro	Africa	hard
+Djibouti	Djibouti	Africa	hard
+Egypt	Cairo	Africa	hard
+Equatorial Guinea	Malabo	Africa	hard
+Eritrea	Asmara	Africa	hard
+Ethiopia	Addis Ababa	Africa	hard
+Gabon	Libreville	Africa	hard
+The Gambia	Banjul	Africa	hard
+Ghana	Accra	Africa	hard
+Guinea	Conakry	Africa	hard
+Guinea-Bissau	Bissau	Africa	hard
+Kenya	Nairobi	Africa	hard
+Lesotho	Maseru	Africa	hard
+Liberia	Monrovia	Africa	hard
+Libya	Tripoli	Africa	hard
+Madagascar	Antananarivo	Africa	hard
+Malawi	Lilongwe	Africa	hard
+Mali	Bamako	Africa	hard
+Mauritania	Nouakchott	Africa	hard
+Mauritius	Port Louis	Africa	hard
+Morocco	Rabat	Africa	hard
+Mozambique	Maputo	Africa	hard
+Namibia	Windhoek	Africa	hard
+Niger	Niamey	Africa	hard
+Nigeria	Abuja	Africa	hard
+Rwanda	Kigali	Africa	hard
+Saint Helena	Jamestown	Africa	hard
+Sao Tome and Principe	Sao Tome	Africa	hard
+Senegal	Dakar	Africa	hard
+Seychelles	Victoria	Africa	hard
+Sierra Leone	Freetown	Africa	hard
+Somalia	Mogadishu	Africa	hard
+South Africa	Pretoria	Africa	hard
+South Sudan	Juba	Africa	hard
+Sudan	Khartoum	Africa	hard
+Swaziland	Mbabane	Africa	hard
+Tanzania	Dar es Salaam	Africa	hard
+Togo	Lome	Africa	hard
+Tunisia	Tunis	Africa	hard
+Uganda	Kampala	Africa	hard
+Zambia	Lusaka	Africa	hard
+Zimbabwe	Harare	Africa	hard
+British Indian Ocean Territory	Diego Garcia	Africa	hard
+Palestine	Jerusalem	Asia	hard
+Afghanistan	Kabul	Asia	hard
+Bahrain	Manama	Asia	hard
+Bangladesh	Dhaka	Asia	hard
+Bhutan	Thimphu	Asia	hard
+Brunei Darussalam	Bandar Seri Begawan	Asia	hard
+Myanmar	Rangoon	Asia	hard
+Cambodia	Phnom Penh	Asia	hard
+China	Beijing	Asia	hard
+India	New Delhi	Asia	hard
+Indonesia	Jakarta	Asia	hard
+Iran	Tehran	Asia	hard
+Iraq	Baghdad	Asia	hard
+Israel	Jerusalem	Asia	hard
+Japan	Tokyo	Asia	hard
+Jordan	Amman	Asia	hard
+Kazakhstan	Astana	Asia	hard
+North Korea	Pyongyang	Asia	hard
+South Korea	Seoul	Asia	hard
+Kuwait	Kuwait City	Asia	hard
+Kyrgyzstan	Bishkek	Asia	hard
+Laos	Vientiane	Asia	hard
+Lebanon	Beirut	Asia	hard
+Malaysia	Kuala Lumpur	Asia	hard
+Maldives	Male	Asia	hard
+Mongolia	Ulaanbaatar	Asia	hard
+Nepal	Kathmandu	Asia	hard
+Oman	Muscat	Asia	hard
+Pakistan	Islamabad	Asia	hard
+Philippines	Manila	Asia	hard
+Qatar	Doha	Asia	hard
+Saudi Arabia	Riyadh	Asia	hard
+Singapore	Singapore	Asia	hard
+Sri Lanka	Colombo	Asia	hard
+Syria	Damascus	Asia	hard
+Taiwan	Taipei	Asia	hard
+Tajikistan	Dushanbe	Asia	hard
+Thailand	Bangkok	Asia	hard
+Timor-Leste	Dili	Asia	hard
+Turkmenistan	Ashgabat	Asia	hard
+United Arab Emirates	Abu Dhabi	Asia	hard
+Uzbekistan	Tashkent	Asia	hard
+Vietnam	Hanoi	Asia	hard
+Yemen	Sanaa	Asia	hard
+Hong Kong	N/A	Asia	hard
+Macau	N/A	Asia	hard
+Nauru	Yaren	Australia	hard
+Tokelau	Atafu	Australia	hard
+American Samoa	Pago Pago	Australia	hard
+Australia	Canberra	Australia	hard
+Christmas Island	The Settlement	Australia	hard
+Cocos Islands	West Island	Australia	hard
+Cook Islands	Avarua	Australia	hard
+Fiji	Suva	Australia	hard
+French Polynesia	Papeete	Australia	hard
+Guam	Hagatna	Australia	hard
+Kiribati	Tarawa	Australia	hard
+Marshall Islands	Majuro	Australia	hard
+Federated States of Micronesia	Palikir	Australia	hard
+New Caledonia	Noumea	Australia	hard
+New Zealand	Wellington	Australia	hard
+Niue	Alofi	Australia	hard
+Norfolk Island	Kingston	Australia	hard
+Northern Mariana Islands	Saipan	Australia	hard
+Palau	Melekeok	Australia	hard
+Papua New Guinea	Port Moresby	Australia	hard
+Pitcairn Islands	Adamstown	Australia	hard
+Samoa	Apia	Australia	hard
+Solomon Islands	Honiara	Australia	hard
+Tonga	Nuku'alofa	Australia	hard
+Tuvalu	Funafuti	Australia	hard
+Vanuatu	Port-Vila	Australia	hard
+Wallis and Futuna	Mata-Utu	Australia	hard
+Belize	Belmopan	Central America	medium
+Canada	Ottawa	Central America	medium
+Costa Rica	San Jose	Central America	medium
+El Salvador	San Salvador	Central America	medium
+Greenland	Nuuk	Central America	medium
+Guatemala	Guatemala City	Central America	medium
+Honduras	Tegucigalpa	Central America	medium
+Mexico	Mexico City	Central America	medium
+Nicaragua	Managua	Central America	medium
+Panama	Panama City	Central America	medium
+Saint Pierre and Miquelon	Saint-Pierre	Central America	medium
+Saint Vincent and the Grenadines	Kingstown	Central America	medium
+Aland Islands	Mariehamn	Europe	easy
+Albania	Tirana	Europe	easy
+Andorra	Andorra la Vella	Europe	easy
+Armenia	Yerevan	Europe	easy
+Austria	Vienna	Europe	easy
+Azerbaijan	Baku	Europe	easy
+Belarus	Minsk	Europe	easy
+Belgium	Brussels	Europe	easy
+Bosnia and Herzegovina	Sarajevo	Europe	easy
+Bulgaria	Sofia	Europe	easy
+Croatia	Zagreb	Europe	easy
+Cyprus	Nicosia	Europe	easy
+Czech Republic	Prague	Europe	easy
+Denmark	Copenhagen	Europe	easy
+Estonia	Tallinn	Europe	easy
+Faroe Islands	Torshavn	Europe	easy
+Finland	Helsinki	Europe	easy
+France	Paris	Europe	easy
+Georgia	Tbilisi	Europe	easy
+Germany	Berlin	Europe	easy
+Gibraltar	Gibraltar	Europe	easy
+Greece	Athens	Europe	easy
+Guernsey	Saint Peter Port	Europe	easy
+Vatican City	Vatican City	Europe	easy
+Hungary	Budapest	Europe	easy
+Iceland	Reykjavik	Europe	easy
+Ireland	Dublin	Europe	easy
+Isle of Man	Douglas	Europe	easy
+Italy	Rome	Europe	easy
+Jersey	Saint Helier	Europe	easy
+Kosovo	Pristina	Europe	easy
+Latvia	Riga	Europe	easy
+Liechtenstein	Vaduz	Europe	easy
+Lithuania	Vilnius	Europe	easy
+Luxembourg	Luxembourg	Europe	easy
+Macedonia	Skopje	Europe	easy
+Malta	Valletta	Europe	easy
+Moldova	Chisinau	Europe	easy
+Monaco	Monaco	Europe	easy
+Montenegro	Podgorica	Europe	easy
+Netherlands	Amsterdam	Europe	easy
+Norway	Oslo	Europe	easy
+Poland	Warsaw	Europe	easy
+Portugal	Lisbon	Europe	easy
+Romania	Bucharest	Europe	easy
+Russia	Moscow	Europe	easy
+San Marino	San Marino	Europe	easy
+Serbia	Belgrade	Europe	easy
+Slovakia	Bratislava	Europe	easy
+Slovenia	Ljubljana	Europe	easy
+Spain	Madrid	Europe	easy
+Svalbard	Longyearbyen	Europe	easy
+Sweden	Stockholm	Europe	easy
+Switzerland	Bern	Europe	easy
+Turkey	Ankara	Europe	easy
+Ukraine	Kyiv	Europe	easy
+United Kingdom	London	Europe	easy
+Northern Cyprus	North Nicosia	Europe	easy
+Saint Martin	Marigot	North America	medium
+Anguilla	The Valley	North America	medium
+Antigua and Barbuda	Saint John's	North America	medium
+Aruba	Oranjestad	North America	medium
+Bahamas	Nassau	North America	medium
+Barbados	Bridgetown	North America	medium
+Bermuda	Hamilton	North America	medium
+British Virgin Islands	Road Town	North America	medium
+Cayman Islands	George Town	North America	medium
+Cuba	Havana	North America	medium
+CuraÃ§ao	Willemstad	North America	medium
+Dominica	Roseau	North America	medium
+Dominican Republic	Santo Domingo	North America	medium
+Grenada	Saint George's	North America	medium
+Haiti	Port-au-Prince	North America	medium
+Jamaica	Kingston	North America	medium
+Montserrat	Plymouth	North America	medium
+Puerto Rico	San Juan	North America	medium
+Saint Barthelemy	Gustavia	North America	medium
+Saint Kitts and Nevis	Basseterre	North America	medium
+Saint Lucia	Castries	North America	medium
+Sint Maarten	Philipsburg	North America	medium
+Trinidad and Tobago	Port of Spain	North America	medium
+Turks and Caicos Islands	Grand Turk	North America	medium
+US Virgin Islands	Charlotte Amalie	North America	medium
+Argentina	Buenos Aires	South America	medium
+Bolivia	La Paz	South America	medium
+Brazil	Brasilia	South America	medium
+Chile	Santiago	South America	medium
+Colombia	Bogota	South America	medium
+Ecuador	Quito	South America	medium
+Falkland Islands	Stanley	South America	medium
+Guyana	Georgetown	South America	medium
+Paraguay	Asuncion	South America	medium
+Peru	Lima	South America	medium
+Suriname	Paramaribo	South America	medium
+Uruguay	Montevideo	South America	medium
+Venezuela	Caracas	South America	medium
+United States	Washington	US	medium
